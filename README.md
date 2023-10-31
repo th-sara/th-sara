@@ -3,7 +3,7 @@
 - ✨ I'm interested in mystery movies, languages, technology and clean energies
 - 🌱 I’m currently learning about Machine Learning
 - 💞️ I’m looking to collaborate on new projects and challenges that I can learn something new from
-- 🌐 My Personal Website: https://th-sara.github.io/personal
+- 🌐 My Personal Website: https://th-sara.github.io/
 - 📧 You can email me at saradaneshvar99@gmail.com
 - 📫 You can find me at https://linkedin.com/in/saradaneshvar7
 <!---
